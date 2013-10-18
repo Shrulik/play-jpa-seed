@@ -1,0 +1,8 @@
+Play JPA Seed
+=====================================
+
+This is a seed Java Play Framework project that is set up to work with JPA.
+It is set to work with the embedded H2, but in file mode, data is stored in a directory
+relative to the user directory.
+
+I needed this for a demo.
